@@ -6,7 +6,7 @@ owner: "CM Sabugal"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# CM Sabugal
+# Câmara Municipal de Sabugal
 
 - Data de criação: 18/12/2025
 - URL: https://www.cm-sabugal.pt/
