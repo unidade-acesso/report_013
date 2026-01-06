@@ -15,7 +15,7 @@ seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório da Auditoria de CM Sabugal](23122025_relatorio_report_013.html)
+Consulte aqui a última atualização: [Relatório da Auditoria de CM Sabugal](06012026_relatorio_report_013.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
